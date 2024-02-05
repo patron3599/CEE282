@@ -8,3 +8,6 @@ structure by applying a geometric nonlinear matrix to each element. The use of t
 which is a MATLAB backed structural analysis program.
 
 Adhering to the Stanford Honor Code, the code in this repository is not meant to be used for future projects or assignments.
+
+![D_deflShape](https://github.com/patron3599/CEE282/assets/114704259/78db9a49-4c89-451b-a521-812dc0fce33f)
+
